@@ -29,7 +29,7 @@ For tourists who are willing to travel accross North America, they can see lands
 ## TO-do List
 ### Minimal: 
 - [x] View posts on a page ordered by newest date by default
-- [x] Add, delete posts. Posts contain photos, travel plan and route
+- [x] Add, delete posts. Posts contain photos, travel journal
 - [x] Authentication for users
 
 ### Standard: 
